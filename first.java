@@ -1,4 +1,4 @@
-class Main {
+public class first {
     public static void main(String[] args) {
         System.out.println("hello world in java");
         System.out.println("welcome to jenkins");
